@@ -1,5 +1,7 @@
 # Simple Store Vue.JS
-[Demo Link](https://cli.vuejs.org/config/).
+[Demo Link](https://simple-store-ten.vercel.app/).
+
+![Screenshot](https://github.com/emineozgenel/simple-store/blob/main/public/screenshot.png)
 
 ## Project setup
 ```

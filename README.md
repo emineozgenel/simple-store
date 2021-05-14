@@ -1,4 +1,5 @@
-# shopping
+# Simple Store Vue.JS
+[Demo Link](https://cli.vuejs.org/config/).
 
 ## Project setup
 ```
